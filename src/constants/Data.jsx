@@ -38,7 +38,7 @@ const Work = [
   },
   {
     imgUrl:
-      "https://private-user-images.githubusercontent.com/110094101/256966518-387fe13f-3d44-4b64-b3fd-d06c20f178fe.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY4NzkzNTIsIm5iZiI6MTcwNjg3OTA1MiwicGF0aCI6Ii8xMTAwOTQxMDEvMjU2OTY2NTE4LTM4N2ZlMTNmLTNkNDQtNGI2NC1iM2ZkLWQwNmMyMGYxNzhmZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIwMlQxMzA0MTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hYzE0ZmFlYTFmNmQxYjg1NTZmZDY1ZDk5MjhlYjYyMzQ1MzNjNjcwODFlNzc0MGY3ZGQyNWM3YjhkNmJkY2M4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.d0mIePK315DIiDVUmOXLK3Td8rQGQBTzyTcjI74E1dA",
+      "https://github.com/0plaze0/Weather_App/blob/main/Screenshot%20(220).png?raw=true",
     name: "dailyweatherforcast",
     projectLink: "https://dailyweatherforcast.netlify.app/",
     codeLink: "https://github.com/0plaze0/Weather_App",
