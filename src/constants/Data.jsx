@@ -49,7 +49,8 @@ const Work = [
   },
   {
     imgUrl:
-      "https://private-user-images.githubusercontent.com/110094101/301859645-25c99ee5-336e-43ba-b17f-6e2c76d778b9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY4ODEyMjcsIm5iZiI6MTcwNjg4MDkyNywicGF0aCI6Ii8xMTAwOTQxMDEvMzAxODU5NjQ1LTI1Yzk5ZWU1LTMzNmUtNDNiYS1iMTdmLTZlMmM3NmQ3NzhiOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIwMlQxMzM1MjdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zN2NiNDNjNGM0ZDFhZTY0NjNiMGYzNzhmNTQxNDdkODE3MThjMjczNWVlNWVmMzk1YjdiMWVmMDcwMzM0OGQyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.v4BKhE_2G6f4ItvuVr3exXbNu05QuQZr0JGgIXWPKnE",
+      "https://github.com/0plaze0/E-commerce/blob/main/Screenshot%20(215).png?raw=true",
+
     name: ".sneakers",
     projectLink: "https://0plaze0.github.io/E-commerce/",
     codeLink: "https://github.com/0plaze0/E-commerce",
@@ -59,7 +60,7 @@ const Work = [
   },
   {
     imgUrl:
-      "https://private-user-images.githubusercontent.com/110094101/301861063-3b0d05bf-5e31-4674-a46a-251b4a55c01f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY4ODE1MzUsIm5iZiI6MTcwNjg4MTIzNSwicGF0aCI6Ii8xMTAwOTQxMDEvMzAxODYxMDYzLTNiMGQwNWJmLTVlMzEtNDY3NC1hNDZhLTI1MWI0YTU1YzAxZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIwMlQxMzQwMzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kZTdkMTYxZGQwODVhODY4NTYxZDc2MjQ1N2UyNWUxZDA0Zjk0MDY1NDg4MWQ0N2RiNDkxMGM4NGIwZGFjYTVlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.lwdqy7Z5aL7FdJY5WCR0CDt8OReUZniVBlPXY4MUrzc",
+      "https://github.com/0plaze0/Netflix/blob/main/Screenshot%20(216).png?raw=true",
     name: "Netlify",
     projectLink: "https://0plaze0.github.io/Netflix/",
     codeLink: "https://github.com/0plaze0/Netflix",
@@ -69,8 +70,9 @@ const Work = [
   },
   {
     imgUrl:
-      "https://private-user-images.githubusercontent.com/110094101/301862811-a171b5cb-0644-46c4-86b1-e160772742ca.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY4ODE5OTMsIm5iZiI6MTcwNjg4MTY5MywicGF0aCI6Ii8xMTAwOTQxMDEvMzAxODYyODExLWExNzFiNWNiLTA2NDQtNDZjNC04NmIxLWUxNjA3NzI3NDJjYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIwMlQxMzQ4MTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lNzY5N2QxY2E4NjFmNjIxMmM3ZjE0YWE0YWQ2ZmIwM2M3ZGIyNjA2OGY3MWEzMWZhYjEzYmZkNWFhMjE5ZDEyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.uqbEHemcnhfAf3OQe_0BZOk-HAApiSG_MxMDPPYxIUs",
-    name: "Netlify",
+      "https://github.com/0plaze0/Ping-Pong/blob/main/Screenshot%20(218).png?raw=true",
+
+    name: "Ping-Pong",
     projectLink: "https://0plaze0.github.io/Ping-Pong/",
     codeLink: "https://github.com/0plaze0/Ping-Pong/",
     title: "Ping-Pong",
